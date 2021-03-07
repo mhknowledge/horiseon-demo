@@ -117,20 +117,14 @@ p {
     background-color: #2589bd;
 }
 /* margin and color settings for the following three benefit classes */
-.benefit-lead {
+.benefit-lead, 
+.benefit-brand,
+ .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
 
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
 /* margin and text align configs for the h3's contained in the benefit classes */
 .benefit-lead h3 {
     margin-bottom: 10px;
