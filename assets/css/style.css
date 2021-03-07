@@ -76,10 +76,10 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-/* code sets specifics for the seo, .online-reputation-management & .social-media-marketing id's in the html */
-#search-engine-optimization,
-#online-reputation-management,
-#social-media-marketing {
+/* code sets dimensions for the seo, .online-reputation-management & .social-media-marketing classes */
+.search-engine-optimization,
+.online-reputation-management,
+.social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
