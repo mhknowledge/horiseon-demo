@@ -18,7 +18,7 @@ The final deliverable is an interactive webpage for Horiseon that implements mai
 
 ![image](https://user-images.githubusercontent.com/79174643/110246506-dba5c300-7f35-11eb-9c0a-516a018e9665.png)
 
-# Links
+## Links
 Horiseon Webpage: https://mhknowledge.github.io/horiseon-demo/
 
 Github Horiseon Repository: https://github.com/mhknowledge/horiseon-demo
