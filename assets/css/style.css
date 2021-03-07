@@ -96,7 +96,7 @@ p {
 }
 
 
-/* margin config and font size specific to the h2 child of SEO class */
+/* margin config and font size specific to the h2 tag relative to parent class */
 .search-engine-optimization h2, 
 .online-reputation-management h2, 
 .social-media-marketing h2 {
