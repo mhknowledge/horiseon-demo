@@ -16,7 +16,7 @@ In order to install the project you will need:
 ## Usage
 The final deliverable is an interactive webpage for Horiseon that implements mainstream market accessibility standards so that the webpage is optimized for leading web search engines worldwide.
 
-![alt horiseon webpage demo](assets/images/horiseon.jpg)
+![image](https://user-images.githubusercontent.com/79174643/110246506-dba5c300-7f35-11eb-9c0a-516a018e9665.png)
 
 # Links
 Horiseon Webpage: https://mhknowledge.github.io/horiseon-demo/
